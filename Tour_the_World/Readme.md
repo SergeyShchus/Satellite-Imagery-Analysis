@@ -1,6 +1,6 @@
 ## Tour the World
 
-With this laptop you can travel to interesting places on the planet. You just need to specify the coordinates.
+With this notebook you can travel to interesting places on the planet. You just need to specify the coordinates.
 
 ## Cambridge Gulf, Australia
 ![Cambridge Gulf, Australia](https://github.com/SergeyShchus/Satellite-Imagery-Analysis-with-Python/blob/master/Tour_the_World/Australia.jpg?raw=true)
