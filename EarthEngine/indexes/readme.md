@@ -3,4 +3,9 @@
 
 [Code](https://code.earthengine.google.co.in/661af389698b08ea74d6ede8abe979ef)
 
-![rainfall](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/EarthEngine/indexes/index_kyivobl.png?raw=true)
+![index](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/EarthEngine/indexes/index_kyivobl.png?raw=true)
+
+
+[Code](https://code.earthengine.google.co.in/cad90fa932e3593d172b3761369ff6c3)
+
+![index](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/EarthEngine/indexes/index2_kyivobl.png?raw=true)
