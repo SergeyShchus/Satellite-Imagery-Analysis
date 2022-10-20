@@ -2,3 +2,6 @@
 
 
 ![RGB](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/RGB/Berdiansk_RGB.jpg?raw=true)
+
+
+![RGB](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/RGB/Mariupol_RGB.jpg?raw=true)
