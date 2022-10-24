@@ -8,6 +8,34 @@
 Script (script_EObrouser.js):
 
 ```
+
+
+
+
+var watervis = water_normal;
+var landvis = land_normal;
+var water_threshold = 25; //lower means more water
+In these two lines, you choose which visualization should be used for water and land. The water/land distinction is simple but good enough for most images, change water_threshold to adapt to your scene.
+
+land_normal usually yields good results, but if you want your scene to appear greener use land_greener, and in case you want it to appear more reddish and arid use land_redder. city can help when showing bigger cities with lots of artifacts caused by big buildings and bridges as it is a more subtle visualization, not showing cities as bright as the other land visualizations, it can also look nice with hilly terrains.
+
+For water, you have even more choices. water_normal is usually the best choice, with water_bright giving you some more vivid colors for your water. oilspill_1, oilspill_2, and oilspill_3 are three slightly different visualizations to better show oil spills in water by creating more contrast. Choose the one you think is working best for your scene.
+
+ImportantShould you be trying to show oil spills the variables avoid_dark_land and avoid_dark_water should be set to 0.
+var saturation = 1.0; //Standard 1.0
+var brightness = 1.0; //Standard 1.0
+Pretty self-explanatory, these variables can be used to change the saturation and brightness of the scene. Note that while saturation does work on land and water, brightness is just working on land as water usually renders okayish or not at all, depending on your scene. However, should you want to get darker or brighter water, you can always change the visualization itself to fit your needs.
+
+var avoid_dark_land = 0; //0=off,1=on
+var avoid_dark_land_threshold = 0.1; //Standard 0.05
+var avoid_dark_water = 0; //0=off,1=on
+var avoid_dark_water_threshold = 1.00; //Standard 1.00
+These variables can be used to avoid black or too dark pixels in your resulting image. Using these you can usually get a way better visualization of water (sea as well as inland water bodies). The thresholds can be used to adapt the function to your specific scene. Play with it to get the best results.
+
+ImportantIn case you’re using this function to get better water visualization, the variables landvis and watervis in lines 56 and 61 should be set to their standard of BLUE.
+var manualCorrection_water = [0.00, 0.00, 0.00];
+var manualCorrection_land = [0.00, 0.00, 0.00];
+You can use these variables to manually change the appearance of the visualization by directly adding (positive values) or subtracting (negative values) RGB values.
 var watervis = water_normal;
 var landvis = land_normal;
 var water_threshold = 25; //lower means more water
