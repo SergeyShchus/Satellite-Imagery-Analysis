@@ -12,3 +12,7 @@
 
 ![EnMap](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/EnMAP-largest%20erosion%20cirque/ramon_2.jpg?raw=true)
 
+
+## - [Hurricane Ian is tracked south of Florida on Sept. 26, 2022, by the National Oceanic and Atmospheric Administration’s (NOAA) GOES-16 satellite.]
+
+![hurricane](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/hurricanes/GOES-16_hurricane.jpeg?raw=true)
