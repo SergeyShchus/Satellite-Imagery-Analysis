@@ -4,5 +4,4 @@
 
 - [Wildfire visualization (scripts)](https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/markuse_fire/)
 
-
--[Scorched Earth: Using NASA Fire Data to Monitor War Zones](https://www.tausiinsider.com/scorched-earth-using-nasa-fire-data-to-monitor-war-zones/)
+- [Scorched Earth: Using NASA Fire Data to Monitor War Zones](https://www.tausiinsider.com/scorched-earth-using-nasa-fire-data-to-monitor-war-zones/)
