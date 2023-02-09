@@ -22,3 +22,10 @@
 ## - [Missisipi river / Sentinel-1 / 12 days composit](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Earth_from_Space_Mississippi_River)
 
 ![Missisipi](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/Sentinel-1/Mississippi_River%20(1).jpg?raw=true)
+
+
+
+
+## - [RGB image / Heavy snowfall causes deadly avalanches in the Alps](https://www.copernicus.eu/en/media/image-day-gallery/heavy-snowfall-causes-deadly-avalanches-alps)
+
+![Missisipi](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/20230208_ALPS.jpeg?raw=true)
