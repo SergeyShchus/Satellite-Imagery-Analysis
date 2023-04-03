@@ -28,4 +28,12 @@
 
 ## - [RGB image / Heavy snowfall causes deadly avalanches in the Alps](https://www.copernicus.eu/en/media/image-day-gallery/heavy-snowfall-causes-deadly-avalanches-alps)
 
-![Missisipi](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/20230208_ALPS.jpeg?raw=true)
+![image](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/20230208_ALPS.jpeg?raw=true)
+
+
+
+
+
+## - [RGB image / Sea Sawdust off Gladstone](https://earthobservatory.nasa.gov/images/91080/sea-sawdust-off-gladstone)
+
+![image](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/Sentinel-2/gladstone_oli_2017254_lrg.jpg?raw=true)
