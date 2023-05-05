@@ -1,6 +1,7 @@
 //VERSION=3
 
 //https://sentinelshare.page.link/Mua8
+//https://sentinelshare.page.link/ndgF
 
 //Normalized difference yellowness index (NDYI) formula
 function A (a, b){
