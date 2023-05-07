@@ -19,3 +19,10 @@ A Google Earth Engine application for Best Available Pixel composites calculatio
 [NDVI explorer](https://sergeyshchus.users.earthengine.app/view/ndvi-explorer)
 
 Create NDVI index in point and color mosaic
+
+
+-----------------------
+
+[Global Air Pollution Explorer](https://sergeyshchus.users.earthengine.app/view/global-air-pollution-explorer)
+
+Visualizes global population and its annual exposure to ground-level PM₂.₅ pollution for the year 2020.
