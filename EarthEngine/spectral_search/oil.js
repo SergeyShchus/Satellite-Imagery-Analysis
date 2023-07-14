@@ -17,3 +17,36 @@ var s_rgb = {
   bands:['B4', 'B3', 'B2'],
   opacity:1
 };
+
+/*filter satellite bands and create variable spectral index*/
+
+var ndvi=sentinel.normalizedDifference(['B8','B4'])
+                  .select(['nd'],['ndvi'])
+
+var ndwi=sentinel.normalizedDifference(['B3','B8'])
+                  .select(['nd'],['ndwi'])
+
+/*filter water and trees with NDVI and NDWI index. NDVI>0,2 and NDWI>0.3*/
+
+
+var image=sentinel.updateMask(ndwi.lt(0.3))
+                  .updateMask(ndvi.lt(0.2))
+                  .addBands(ndvi)
+                  .select(bands)
+
+/*Generated label data layers
+oil, agriculture, urban
+*/
+
+/*taking random samples of points from within these polygons with randomPoints function
+*/
+
+var oil_points=ee.FeatureCollection.randomPoints(oil, 3000).map(function(i){
+  return i.set({'class': 0})})
+  
+var urban_points=ee.FeatureCollection.randomPoints(urban, 1000).map(function(i){
+  return i.set({'class': 1})})
+  
+var agriculture_points=ee.FeatureCollection.randomPoints(agriculture, 2000).map(function(i){
+  return i.set({'class': 2})})
+
