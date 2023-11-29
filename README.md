@@ -39,3 +39,15 @@
 ## - [RGB image / Sea Sawdust off Gladstone](https://earthobservatory.nasa.gov/images/91080/sea-sawdust-off-gladstone)
 
 ![image](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/Sentinel-2/gladstone_oli_2017254_lrg.jpg?raw=true)
+
+
+
+
+## - [FalseColour / Winter - Pokrov](https://sentinelshare.page.link/Da9H)
+
+![image](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/Sentinel-2/Winter_2023_Pokrov.jpg?raw=true)
+
+
+## - [FalseColour / Winter - Enerhodar](https://sentinelshare.page.link/VFJt)
+
+![image](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/Sentinel-2/Winter_2023_Enerhodar.jpg?raw=true)
