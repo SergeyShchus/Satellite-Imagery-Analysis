@@ -51,3 +51,7 @@
 ## - [FalseColour / Winter - Enerhodar](https://sentinelshare.page.link/VFJt)
 
 ![image](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/Sentinel-2/Winter_2023_Enerhodar.jpg?raw=true)
+
+## - [Moisture index / Cloudy - Crimea](https://sentinelshare.page.link/3G2y)
+
+![image](https://github.com/SergeyShchus/Satellite-Imagery-Analysis/blob/master/data/Sentinel-2/crimea_2023-12-02.jpg?raw=true)
